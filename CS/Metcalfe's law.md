@@ -5,4 +5,4 @@
 
 즉 네트워크가 커질수록 비용절감 효과가 등비급수적으로 늘어나 네트워크의 가치는 훨씬 급격하게 증가하게 됩니다. **메트칼프의 법칙은 초기 인터넷 산업의 성장과정에서 인터넷 가입자 및 회원수를 늘리기 위한 과잉투자를 정당화하는 이론적 도구로 활용됐지만 인터넷 버블이 터지면서 비판을 받았습니다.**
 
-이 법칙은 ‘마이크로칩에 저장하는 데이터의 양은 18개월마다 두 배씩 증가한다’는 [무어의 법칙](https://github.com/uuuuuuuk/Real_NEW_IL/blob/main/CS/Moore's%20Law.md), ‘조직은 거래 비용이 적게 드는 쪽으로 계속 변화한다’는 [가치사슬의 법칙](https://github.com/uuuuuuuk/NEW_TIL/blob/main/CS/Value%20chain's%20law.md)과 함께 인터넷 경제 3원칙으로 불립니다.
+이 법칙은 ‘마이크로칩에 저장하는 데이터의 양은 18개월마다 두 배씩 증가한다’는 [무어의 법칙](https://github.com/uuuuuuuk/Real_NEW_IL/blob/main/CS/Moore's%20Law.md), ‘조직은 거래 비용이 적게 드는 쪽으로 계속 변화한다’는 [가치사슬의 법칙](https://github.com/uuuuuuuk/Real_NEW_IL/blob/main/CS/Value%20chain's%20law.md)과 함께 인터넷 경제 3원칙으로 불립니다.
