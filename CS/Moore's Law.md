@@ -5,6 +5,6 @@
 
 하지만 변화의 속도가 지난 수년간 다소 느려져 18개월마다 두 배씩 증가하자 `'고든 무어의 법칙'`의 정의를 수정하고 그의 이름을 빌려 `'무어의 법칙'`이라고 명명하였습니다. 
 
-이 법칙은 인터넷은 적은 노력으로도 커다란 결과를 얻을 수 있다는 [메트칼프의 법칙](https://github.com/uuuuuuuk/Real_NEW_IL/blob/main/CS/Metcalfe's%20law.md), “조직은 계속적으로 거래비용이 적게 드는 쪽으로 변화한다”는 [가치사슬의 법칙](https://github.com/uuuuuuuk/NEW_TIL/blob/main/CS/Value%20chain's%20law.md)과 함께 인터넷 경제의 3원칙으로 불립니다. 
+이 법칙은 인터넷은 적은 노력으로도 커다란 결과를 얻을 수 있다는 [메트칼프의 법칙](https://github.com/uuuuuuuk/Real_NEW_IL/blob/main/CS/Metcalfe's%20law.md), “조직은 계속적으로 거래비용이 적게 드는 쪽으로 변화한다”는 [가치사슬의 법칙](https://github.com/uuuuuuuk/Real_NEW_IL/blob/main/CS/Value%20chain's%20law.md)과 함께 인터넷 경제의 3원칙으로 불립니다. 
 
 무어의 법칙은 PC의 처리속도와 메모리의 양이 2배로 증가하고 비용은 상대적으로 떨어지는 효과를 가져 왔습니다. 이러한 디지털 혁명은 1990년대 말 미국의 정보기술에 막대한 비용을 투자하는 계기를 만들기도 했는데 2016년 2월에 반도체 업계가 경제성을 이유로 포기를 선언하면서 무어의 법칙이 폐기되게 되었습니다. 
