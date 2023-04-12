@@ -1,0 +1,2 @@
+# **가치사슬의 법칙**
+`가치사슬의 법칙`은 1970년대 올리버 윌리엄슨(Oliver Williamson)이 제시한 이 제시한 **"조직은 계속적으로 거래비용이 적게 드는 방향으로 변화한다"** 는 이론입니다. **“네트워크의 가치는 참여자 수의 제곱에 비례한다”** 는 [메트칼프의 법칙](https://github.com/uuuuuuuk/NEW_TIL/blob/main/CS/Metcalfe's%20law.md), **“조직은 계속적으로 거래비용이 적게 드는 쪽으로 변화한다”** 는 [무어의 법칙](https://github.com/uuuuuuuk/NEW_TIL/blob/main/CS/Moore's%20Law.md)과 함께 인터넷 경제의 3원칙으로 불립니다. 
